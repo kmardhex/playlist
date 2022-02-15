@@ -68,7 +68,7 @@ https://svara-stream.radioddns.net:8443/surabaya_djfm
 https://srv02.varcdn1.ru/m1/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://s3.vinhostmedia.com:1031/;stream/1
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/chunklist_w874992042.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
@@ -102,7 +102,7 @@ http://tvn.x10.bz/channel/master-6.m3u8
 https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MNCTV
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",DENS TV
 http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://45.134.21.199/hls/S2.m3u8
@@ -163,9 +163,9 @@ http://stream.denger.in:8888/dmi
 http://tvn.x10.bz/channel/master-21.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",BERITA SATU
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",DENS TV2
 http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://stream.yaomilakbar.space/galuhfm
@@ -174,7 +174,7 @@ http://c2.kkewei.club:8880/rose2021/HgmtdHzhwF/2120
 http://tvn.x10.bz/channel/master.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RM TV
 https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://95-213-224-180.livesports24.online/ooomatch.m3u8
@@ -184,7 +184,7 @@ http://n08.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&amp;rj-tok=AAABfMLAcAgA4xSq8MCqOj
 http://tvn.x10.bz/channel/master-3.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TVRI
 https://cdnrrinet.rri.co.id/rrinet/live_240p/playlist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://tvn.x10.bz/channel/master-1.m3u8
@@ -229,7 +229,7 @@ http://rr2.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=50n13N0v14nd1&amp;tk
 http://202.147.199.99:8000
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://170.80.242.242/hls/ESPN.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MMSTV
 https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
@@ -245,7 +245,7 @@ https://live.nagaswarafm.com:8088
 http://tvn.x10.bz/channel/master-18.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://tvn.x10.bz/channel/master-22.m3u8
@@ -261,7 +261,7 @@ https://n04.radiojar.com/rrqf78p3bnzuv.mp3?rj-tok=AAABfMdbpgsAmz1T3Q2KZaI2wA&amp
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://srv02.varcdn1.ru/m2/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CNB TV
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1032245824_b192000_sleng.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://45.127.244.7:8080/hls/channel6.m3u8
