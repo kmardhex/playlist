@@ -11,8 +11,6 @@ https://tunzilla.com/http://radio.simaya.net.id:1240
 https://live.nagaswarafm.com:9100
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://n12.radiojar.com/7csmg90fuqruv?rj-tok=AAABfMdXdZsAB26L94el6Ef6ng&amp;rj-ttl=5<http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://202.147.199.100:8000
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",BANDUNG TV
 http://202.150.153.254/bandungtv360p.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
@@ -57,8 +55,6 @@ http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/chunklist_w874992042.m3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/21.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-15.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://bal.varcdn1.ru/lb/mp/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
