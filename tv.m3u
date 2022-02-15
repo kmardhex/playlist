@@ -102,8 +102,6 @@ http://tvn.x10.bz/channel/master-6.m3u8
 https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MNCTV
 https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",DENS TV
-http://rr1.dens.tv/h/h05/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://45.134.21.199/hls/S2.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
@@ -165,8 +163,6 @@ http://tvn.x10.bz/channel/master-21.m3u8
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",DENS TV2
-http://rr1.dens.tv/h/h144/index.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 https://stream.yaomilakbar.space/galuhfm
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
@@ -184,7 +180,7 @@ http://n08.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&amp;rj-tok=AAABfMLAcAgA4xSq8MCqOj
 http://tvn.x10.bz/channel/master-3.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TVRI
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RRI TV
 https://cdnrrinet.rri.co.id/rrinet/live_240p/playlist.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://tvn.x10.bz/channel/master-1.m3u8
