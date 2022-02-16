@@ -199,3 +199,29 @@ http://live.flixhub.net/hls/select2.m3u8
 http://tvn.x10.bz/channel/playlist-1.m3u8
 #EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
 http://93.157.62.180/KSport1/index.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",ANTV
+http://tvn.x10.bz/channel/master-12.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",KOMPAS TV
+http://tvn.x10.bz/channel/master-19.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CITRA TV
+http://tvn.x10.bz/channel/master-2.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",ZEE BIOSKOP
+http://tvn.x10.bz/channel/master-15.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CAMPION TV
+http://tvn.x10.bz/channel/master-7.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",AJURA TV
+http://tvn.x10.bz/channel/master-14.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CITRA DANDUT
+http://tvn.x10.bz/channel/master-10.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TV ONE
+http://tvn.x10.bz/channel/master-13.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RTV
+http://tvn.x10.bz/channel/master-20.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",NET TV
+http://tvn.x10.bz/channel/master-21.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MENTARI TV
+http://tvn.x10.bz/channel/master-21.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",METRO TV
+http://tvn.x10.bz/channel/master-23.m3u8
+#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",SCTV
+http://tvn.x10.bz/channel/master-24.m3u8
