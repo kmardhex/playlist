@@ -1,227 +1,787 @@
 #EXTM3U
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://95-213-224-179.livesports24.online/sport1ua.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",DANGDUT TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://tunzilla.com/http://radio.simaya.net.id:1240
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://live.nagaswarafm.com:9100
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://n12.radiojar.com/7csmg90fuqruv?rj-tok=AAABfMdXdZsAB26L94el6Ef6ng&amp;rj-ttl=5<http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",BANDUNG TV
-http://202.150.153.254/bandungtv360p.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-19.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://95-213-224-179.livesports24.online/eurosport1ru.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",INEWS
-https://livetv01.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://stream1.1616.ro:1945/looksport2/livestream/chuklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CNN TV
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1622709713_b192000_sleng.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://93.157.62.180/TringSport1HD/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://93.157.62.180/KSport3/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://wopep.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://srv02.varcdn1.ru/m1/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/chunklist_w874992042.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/21.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://bal.varcdn1.ru/lb/mp/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://stream.mmsiptv.com/droid/rmc2/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-11.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-7.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-6.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",GTV
-https://livetv01.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MNCTV
-https://livetv01.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://45.134.21.199/hls/S2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://rr3.dens.tv/s/s81/01.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://93.157.62.180/KSport4/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RCTI
-https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/playlist-2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-14.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master_375.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-16.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-8.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-10.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://cdn2.cyclingnews.live/hls/P2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-23.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-24.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://cdn2.cyclingnews.live/hls/P1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://srv02.varcdn1.ru/m3/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://cdnjakartapro1.rri.co.id/web-rrijakartapro1.mp3
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-21.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RM TV
-https://stream.mmsiptv.com/droid/rmc1/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://95-213-224-180.livesports24.online/ooomatch.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-3.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RRI TV
-https://cdnrrinet.rri.co.id/rrinet/live_240p/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84727)/08.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://mkh.varcdn1.ru/setanta1/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-17.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://mediacorp-videosbclive.akamaized.net/310fff74530047d29076136efeabe72c/ap-southeast-1/6057994443001/profile_3/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://45.148.26.188/hls/M1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-13.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://mkh.varcdn1.ru/setanta2/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://170.80.242.242/hls/ESPN.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MMSTV
-https://stream.mmsiptv.com/droid/rmc3/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-18.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-22.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://www.wopep.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://93.157.62.180/KSport2/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://srv02.varcdn1.ru/m2/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CNB TV
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1032245824_b192000_sleng.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://45.127.244.7:8080/hls/channel6.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w394209428_b344100_sleng.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-https://95-213-224-179.livesports24.online/ruseurosport2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/master-5.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/playlist.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://rr1.dens.tv/h/h02/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
- https://repppost.blogspot.com/2022/01/blog-post_7.html?m=1
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://tvn.x10.bz/channel/playlist-1.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="MDX CHANNEL",MDX CHANNEL
-http://93.157.62.180/KSport1/index.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",ANTV
-http://tvn.x10.bz/channel/master-12.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",KOMPAS TV
-http://tvn.x10.bz/channel/master-19.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CITRA TV
-http://tvn.x10.bz/channel/master-2.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",ZEE BIOSKOP
-http://tvn.x10.bz/channel/master-15.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CAMPION TV
-http://tvn.x10.bz/channel/master-7.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",AJURA TV
-http://tvn.x10.bz/channel/master-14.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",CITRA DANDUT
-http://tvn.x10.bz/channel/master-10.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",TV ONE
-http://tvn.x10.bz/channel/master-13.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",RTV
-http://tvn.x10.bz/channel/master-20.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",NET TV
-http://tvn.x10.bz/channel/master-21.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",MENTARI TV
-http://tvn.x10.bz/channel/master-21.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",METRO TV
-http://tvn.x10.bz/channel/master-23.m3u8
-#EXTINF:0 tvg-id="mdxchannel" tvg-name="mdxchannel" tvg-logo="https://i.postimg.cc/mZvLtJNn/tvku.png" group-title="TV LOCAL",SCTV
-http://tvn.x10.bz/channel/master-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/8jzNGSp/9XM.png" group-title="MUSIC",9XM
+http://diaztv.xyz:25461/diaztv/sematinya/458
+#EXTINF:-1 tvg-id="1518" tvg-name="ABC News" tvg-logo="https://i.ibb.co/YQ70R8n/ABCNEWS.png" group-title="NEWS",ABC News
+http://diaztv.xyz:25461/diaztv/sematinya/449
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 1" tvg-logo="https://i.ibb.co/T1yJjrw/DUBAISPORTS.png" group-title="VIP SPORTS 2",AD Sports 1
+http://diaztv.xyz:25461/diaztv/sematinya/780
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 2" tvg-logo="https://i.ibb.co/zRhV9Mv/DUBAISPORTS2.png" group-title="VIP SPORTS 2",AD Sports 2
+http://diaztv.xyz:25461/diaztv/sematinya/781
+#EXTINF:-1 tvg-id="" tvg-name="AD Sports 3" tvg-logo="https://i.ibb.co/0Yh2VqT/DUBAISPORTS3.png" group-title="VIP SPORTS 2",AD Sports 3
+http://diaztv.xyz:25461/diaztv/sematinya/782
+#EXTINF:-1 tvg-id="" tvg-name="AEW" tvg-logo="https://i.ibb.co/0tSg5kK/AEW.png" group-title="VIP SPORTS 1",AEW
+http://diaztv.xyz:25461/diaztv/sematinya/102
+#EXTINF:-1 tvg-id="1709" tvg-name="AFN" tvg-logo="https://i.ibb.co/JtQ9H1W/AFN.png" group-title="KNOWLEDGE",AFN
+http://diaztv.xyz:25461/diaztv/sematinya/105
+#EXTINF:-1 tvg-id="1513" tvg-name="Al Jazeera English" tvg-logo="https://i.ibb.co/mq8BmKS/ALJAZEERA.png" group-title="NEWS",Al Jazeera English
+http://diaztv.xyz:25461/diaztv/sematinya/207
+#EXTINF:-1 tvg-id="" tvg-name="Al-Iman TV" tvg-logo="https://i.ibb.co/9nwgR48/ALIMANTV.png" group-title="RELIGION",Al-Iman TV
+http://diaztv.xyz:25461/diaztv/sematinya/158
+#EXTINF:-1 tvg-id="1556" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/LPf1xKt/ANIMALPLANET.png" group-title="KNOWLEDGE",Animal Planet
+http://diaztv.xyz:25461/diaztv/sematinya/104
+#EXTINF:-1 tvg-id="1719" tvg-name="Animax" tvg-logo="https://i.ibb.co/GRwtpJt/ANIMAX.png" group-title="KIDS",Animax
+http://diaztv.xyz:25461/diaztv/sematinya/115
+#EXTINF:-1 tvg-id="1AGEC4" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/jLJ3CYv/ANIPLUS.png" group-title="KIDS",Aniplus
+http://diaztv.xyz:25461/diaztv/sematinya/94
+#EXTINF:-1 tvg-id="3005" tvg-name="antv" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="LOCAL FTA",antv
+http://diaztv.xyz:25461/diaztv/sematinya/12
+#EXTINF:-1 tvg-id="3501" tvg-name="Arirang TV" tvg-logo="https://i.ibb.co/HVVjV8s/ARIRANG.png" group-title="ENTERTAINMENT",Arirang TV
+http://diaztv.xyz:25461/diaztv/sematinya/83
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena" tvg-logo="https://i.ibb.co/jWffcwm/ASTROARENA.png" group-title="VIP SPORTS 1",Astro Arena
+http://diaztv.xyz:25461/diaztv/sematinya/598
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/s11vx4G/ASTROAWANI.png" group-title="ASTRO TV",Astro Awani
+http://diaztv.xyz:25461/diaztv/sematinya/551
+#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/p0JNPhk/CERIA.png" group-title="ASTRO TV",Astro Ceria
+http://diaztv.xyz:25461/diaztv/sematinya/543
+#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/TgwWM4r/OASIS.png" group-title="ASTRO TV",Astro Oasis
+http://diaztv.xyz:25461/diaztv/sematinya/544
+#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/b1HWYvw/ASTROPRIMA.png" group-title="ASTRO TV",Astro Prima
+http://diaztv.xyz:25461/diaztv/sematinya/545
+#EXTINF:-1 tvg-id="AstroRia.my" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/MM7h51z/ASTRORIA.png" group-title="ASTRO TV",Astro Ria
+http://diaztv.xyz:25461/diaztv/sematinya/539
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://i.ibb.co/Phh63BV/ASSP1.png" group-title="VIP SPORTS 1",Astro SuperSport
+http://diaztv.xyz:25461/diaztv/sematinya/540
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://i.ibb.co/R0TpBBw/ASSP2.png" group-title="VIP SPORTS 1",Astro SuperSport 2
+http://diaztv.xyz:25461/diaztv/sematinya/541
+#EXTINF:-1 tvg-id="ASSP3.my" tvg-name="Astro SuperSport 3" tvg-logo="https://i.ibb.co/3yQXb4z/ASSP3.png" group-title="VIP SPORTS 1",Astro SuperSport 3
+http://diaztv.xyz:25461/diaztv/sematinya/542
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://i.ibb.co/pJvPh1h/ASSP4.png" group-title="VIP SPORTS 1",Astro SuperSport 4
+http://diaztv.xyz:25461/diaztv/sematinya/599
+#EXTINF:-1 tvg-id="1701" tvg-name="AXN" tvg-logo="https://i.ibb.co/dKJt8hM/AXN.png" group-title="VIP MOVIES",AXN
+http://diaztv.xyz:25461/diaztv/sematinya/23
+#EXTINF:-1 tvg-id="" tvg-name="BabyFirst" tvg-logo="https://i.ibb.co/BCN9hDR/babyfirst.png" group-title="KIDS",BabyFirst
+http://diaztv.xyz:25461/diaztv/sematinya/752
+#EXTINF:-1 tvg-id="BaliTV.MACAN" tvg-name="Bali TV" tvg-logo="https://i.ibb.co/VY0fK6q/BALITV.png" group-title="LOCAL REGION",Bali TV
+http://diaztv.xyz:25461/diaztv/sematinya/221
+#EXTINF:-1 tvg-id="2553" tvg-name="BBC CBeebies" tvg-logo="https://i.ibb.co/dKsb8WW/CBEEBIES.png" group-title="KIDS",BBC CBeebies
+http://diaztv.xyz:25461/diaztv/sematinya/244
+#EXTINF:-1 tvg-id="1818" tvg-name="beIN Sports 1 EN" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="VIP SPORTS 1",beIN Sports 1 EN
+http://diaztv.xyz:25461/diaztv/sematinya/76
+#EXTINF:-1 tvg-id="1818" tvg-name="beIN Sports 1 ID" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="VIP SPORTS 1",beIN Sports 1 ID
+http://diaztv.xyz:25461/diaztv/sematinya/634
+#EXTINF:-1 tvg-id="1819" tvg-name="beIN Sports 2 EN" tvg-logo="https://i.ibb.co/gJZ8SLq/BEINSPORTS3.png" group-title="VIP SPORTS 1",beIN Sports 2 EN
+http://diaztv.xyz:25461/diaztv/sematinya/77
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 EN" tvg-logo="https://i.ibb.co/m04SNRx/BEINSPORTS1.png" group-title="VIP SPORTS 1",beIN Sports 3 EN
+http://diaztv.xyz:25461/diaztv/sematinya/856
+#EXTINF:-1 tvg-id="1819" tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co/gJZ8SLq/BEINSPORTS3.png" group-title="VIP SPORTS 1",beIN Sports 3 ID
+http://diaztv.xyz:25461/diaztv/sematinya/635
+#EXTINF:-1 tvg-id="" tvg-name="Bek Sports West" tvg-logo="" group-title="SPORTS",Bek Sports West
+http://diaztv.xyz:25461/diaztv/sematinya/801
+#EXTINF:-1 tvg-id="" tvg-name="BeritaSatu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" group-title="NEWS",BeritaSatu
+http://diaztv.xyz:25461/diaztv/sematinya/113
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/bH4brzz/BIOSKOPINDONESIA.png" group-title="VIP MOVIES",Bioskop Indonesia
+http://diaztv.xyz:25461/diaztv/sematinya/131
+#EXTINF:-1 tvg-id="" tvg-name="Boogle Bollywood" tvg-logo="https://i.ibb.co/QQst7NR/BOOGLE.png" group-title="MUSIC",Boogle Bollywood
+http://diaztv.xyz:25461/diaztv/sematinya/459
+#EXTINF:-1 tvg-id="1619" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/RgH0Zj8/BOOMERANG.png" group-title="KIDS",Boomerang
+http://diaztv.xyz:25461/diaztv/sematinya/225
+#EXTINF:-1 tvg-id="" tvg-name="BRI Liga 1 & 2" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="LIVE EVENTS",BRI Liga 1 & 2
+http://diaztv.xyz:25461/diaztv/sematinya/839
+#EXTINF:-1 tvg-id="1615" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/j3rKLd9/CARTOONNETWORK.png" group-title="KIDS",Cartoon Network
+http://diaztv.xyz:25461/diaztv/sematinya/95
+#EXTINF:-1 tvg-id="1321" tvg-name="CCM " tvg-logo="https://i.ibb.co/f9Gx2hQ/CCM.png" group-title="VIP MOVIES",CCM 
+http://diaztv.xyz:25461/diaztv/sematinya/118
+#EXTINF:-1 tvg-id="1335" tvg-name="CCTV-4" tvg-logo="https://i.ibb.co/NmcwNqf/CCTV4.png" group-title="NEWS",CCTV-4
+http://diaztv.xyz:25461/diaztv/sematinya/218
+#EXTINF:-1 tvg-id="1309" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/9gjYZ6W/CELESTIALMOVIES.png" group-title="VIP MOVIES",Celestial Movies
+http://diaztv.xyz:25461/diaztv/sematinya/264
+#EXTINF:-1 tvg-id="1503" tvg-name="CGTN Documentary" tvg-logo="https://i.ibb.co/LSmvsvY/CGTNDOCUMENTARY.png" group-title="KNOWLEDGE",CGTN Documentary
+http://diaztv.xyz:25461/diaztv/sematinya/110
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-name="Champions TV1" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="LIVE EVENTS",Champions TV1
+http://diaztv.xyz:25461/diaztv/sematinya/282
+#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-name="Champions TV2" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="LIVE EVENTS",Champions TV2
+http://diaztv.xyz:25461/diaztv/sematinya/283
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-name="Champions TV3" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="LIVE EVENTS",Champions TV3
+http://diaztv.xyz:25461/diaztv/sematinya/284
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV4" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="LIVE EVENTS",Champions TV4
+http://diaztv.xyz:25461/diaztv/sematinya/829
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://i.ibb.co/Ld6f3Q7/chines.png" group-title="ENTERTAINMENT",Chinese Drama
+http://diaztv.xyz:25461/diaztv/sematinya/748
+#EXTINF:-1 tvg-id="2441" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/XF562Rd/CINEMAWORLD.png" group-title="ENTERTAINMENT",Cinema World
+http://diaztv.xyz:25461/diaztv/sematinya/476
+#EXTINF:-1 tvg-id="1412" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="VIP MOVIES",Cinemax
+http://diaztv.xyz:25461/diaztv/sematinya/24
+#EXTINF:-1 tvg-id="1412" tvg-name="Cinemax SUB" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="VIP MOVIES",Cinemax SUB
+http://diaztv.xyz:25461/diaztv/sematinya/771
+#EXTINF:-1 tvg-id="Citrabioskop" tvg-name="Citra Bioskop" tvg-logo="https://i.ibb.co/KN7sJpm/CITRABIOSKOP.png" group-title="ENTERTAINMENT",Citra Bioskop
+http://diaztv.xyz:25461/diaztv/sematinya/843
+#EXTINF:-1 tvg-id="Citradangdut" tvg-name="Citra Dangdut" tvg-logo="https://i.ibb.co/2qTmQbT/CITRADANGDUT.png" group-title="ENTERTAINMENT",Citra Dangdut
+http://diaztv.xyz:25461/diaztv/sematinya/39
+#EXTINF:-1 tvg-id="Citradrama" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/02CR9hw/CITRADRAMA.png" group-title="ENTERTAINMENT",Citra Drama
+http://diaztv.xyz:25461/diaztv/sematinya/40
+#EXTINF:-1 tvg-id="Citraentertainment" tvg-name="Citra Entertainment" tvg-logo="https://i.ibb.co/41vXhpy/CITRAENT.png" group-title="ENTERTAINMENT",Citra Entertainment
+http://diaztv.xyz:25461/diaztv/sematinya/842
+#EXTINF:-1 tvg-id="1515" tvg-name="CNA" tvg-logo="https://i.ibb.co/MpsF580/CNA.png" group-title="NEWS",CNA
+http://diaztv.xyz:25461/diaztv/sematinya/208
+#EXTINF:-1 tvg-id="1516" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/Cmy5Kjq/CNBCINDONESIA.png" group-title="NEWS",CNBC Indonesia
+http://diaztv.xyz:25461/diaztv/sematinya/209
+#EXTINF:-1 tvg-id="1511" tvg-name="CNN" tvg-logo="https://i.ibb.co/JFc97rL/CNNINTERNATIONAL.png" group-title="NEWS",CNN
+http://diaztv.xyz:25461/diaztv/sematinya/211
+#EXTINF:-1 tvg-id="6002" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/rsPZCwk/CNNINDONESIA.png" group-title="NEWS",CNN Indonesia
+http://diaztv.xyz:25461/diaztv/sematinya/210
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/6F852NQ/COLORSHD.png" group-title="ASTRO TV",Colors HD
+http://diaztv.xyz:25461/diaztv/sematinya/552
+#EXTINF:-1 tvg-id="1714" tvg-name="Crime + Investigation" tvg-logo="https://i.ibb.co/LkxcF5k/CRIMEINVESTIGATION.png" group-title="KNOWLEDGE",Crime + Investigation
+http://diaztv.xyz:25461/diaztv/sematinya/242
+#EXTINF:-1 tvg-id="3014" tvg-name="DAAI TV" tvg-logo="https://i.ibb.co/vDqTXmM/DAAITV.png" group-title="LOCAL FTA",DAAI TV
+http://diaztv.xyz:25461/diaztv/sematinya/16
+#EXTINF:-1 tvg-id="1553" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/fkg1YZg/DISCOVERYASIA.png" group-title="KNOWLEDGE",Discovery Asia
+http://diaztv.xyz:25461/diaztv/sematinya/107
+#EXTINF:-1 tvg-id="1552" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/FB523vn/DISCOVERYCHANNEL.png" group-title="KNOWLEDGE",Discovery Channel
+http://diaztv.xyz:25461/diaztv/sematinya/108
+#EXTINF:-1 tvg-id="2550" tvg-name="Dreamworks " tvg-logo="https://i.ibb.co/N3QNwtY/DREAMWORKS.png" group-title="KIDS",Dreamworks 
+http://diaztv.xyz:25461/diaztv/sematinya/212
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Movies" tvg-logo="https://i.ibb.co/hWvNGb9/DUBAIONE.png" group-title="VIP MOVIES",Dubai Movies
+http://diaztv.xyz:25461/diaztv/sematinya/451
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://i.ibb.co/DtpHkzw/duniaanak.png" group-title="KIDS",Dunia Anak
+http://diaztv.xyz:25461/diaztv/sematinya/750
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Games" tvg-logo="https://thumbs2.imgbox.com/3a/1b/Xs8EBvzo_t.jpeg" group-title="SPORTS",Dunia Games
+http://diaztv.xyz:25461/diaztv/sematinya/802
+#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/pPmKjH4/DUNIALAIN.png" group-title="ENTERTAINMENT",Dunia Lain
+http://diaztv.xyz:25461/diaztv/sematinya/223
+#EXTINF:-1 tvg-id="1AGEC2" tvg-name="DW ENG" tvg-logo="https://i.ibb.co/HDxKBcD/DW.png" group-title="NEWS",DW ENG
+http://diaztv.xyz:25461/diaztv/sematinya/213
+#EXTINF:-1 tvg-id="" tvg-name="Elshinta" tvg-logo="https://i.ibb.co/wLQHnwn/ELSHINTATV.png" group-title="LOCAL REGION",Elshinta
+http://diaztv.xyz:25461/diaztv/sematinya/17
+#EXTINF:-1 tvg-id="2612" tvg-name="Euro News" tvg-logo="https://i.ibb.co/WGdLHT0/EURONEWS.png" group-title="NEWS",Euro News
+http://diaztv.xyz:25461/diaztv/sematinya/222
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/JC1LChG/FASHIONTV.png" group-title="ENTERTAINMENT",Fashion TV
+http://diaztv.xyz:25461/diaztv/sematinya/43
+#EXTINF:-1 tvg-id="3101" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="VIP SPORTS 1",Fight Sports
+http://diaztv.xyz:25461/diaztv/sematinya/214
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://i.ibb.co/X2jnCKj/FIGHTSPORTS.png" group-title="VIP SPORTS 1",Fight Sports
+http://diaztv.xyz:25461/diaztv/sematinya/448
+#EXTINF:-1 tvg-id="Flik" tvg-name="FliK" tvg-logo="https://i.ibb.co/ZmwNRNt/FLIK.png" group-title="ENTERTAINMENT",FliK
+http://diaztv.xyz:25461/diaztv/sematinya/44
+#EXTINF:-1 tvg-id="" tvg-name="Formosa TV" tvg-logo="" group-title="KNOWLEDGE",Formosa TV
+http://diaztv.xyz:25461/diaztv/sematinya/753
+#EXTINF:-1 tvg-id="1AGEC3" tvg-name="France 24" tvg-logo="https://i.ibb.co/tzBMB1t/FRANCE24.png" group-title="NEWS",France 24
+http://diaztv.xyz:25461/diaztv/sematinya/219
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/j3NMYVH/GALAXY.png" group-title="VIP MOVIES",Galaxy
+http://diaztv.xyz:25461/diaztv/sematinya/25
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/1XKrthM/GALAXYPREMIUM.png" group-title="VIP MOVIES",Galaxy Premium
+http://diaztv.xyz:25461/diaztv/sematinya/26
+#EXTINF:-1 tvg-id="" tvg-name="Garuda TV" tvg-logo="https://i.ibb.co/tqtj3xr/GARUDATV.png" group-title="LOCAL REGION",Garuda TV
+http://diaztv.xyz:25461/diaztv/sematinya/454
+#EXTINF:-1 tvg-id="3602" tvg-name="GEM TV Asia" tvg-logo="https://i.ibb.co/9vtsHGL/SONY-GEM.png" group-title="KOREAN",GEM TV Asia
+http://diaztv.xyz:25461/diaztv/sematinya/45
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.ibb.co/z299TFW/GTV.png" group-title="LOCAL FTA",GTV
+http://diaztv.xyz:25461/diaztv/sematinya/5
+#EXTINF:-1 tvg-id="1411" tvg-name="HBO" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="VIP MOVIES",HBO
+http://diaztv.xyz:25461/diaztv/sematinya/27
+#EXTINF:-1 tvg-id="2902" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/7vqtWVv/HBOFAMILY.png" group-title="VIP MOVIES",HBO Family
+http://diaztv.xyz:25461/diaztv/sematinya/28
+#EXTINF:-1 tvg-id="2902" tvg-name="HBO Family SUB" tvg-logo="https://i.ibb.co/7vqtWVv/HBOFAMILY.png" group-title="VIP MOVIES",HBO Family SUB
+http://diaztv.xyz:25461/diaztv/sematinya/774
+#EXTINF:-1 tvg-id="2903" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/G3dYK77/HBOHITS.png" group-title="VIP MOVIES",HBO Hits
+http://diaztv.xyz:25461/diaztv/sematinya/29
+#EXTINF:-1 tvg-id="2903" tvg-name="HBO Hits SUB" tvg-logo="https://i.ibb.co/G3dYK77/HBOHITS.png" group-title="VIP MOVIES",HBO Hits SUB
+http://diaztv.xyz:25461/diaztv/sematinya/773
+#EXTINF:-1 tvg-id="2901" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/F33JjXf/HBOSIGNATURE.png" group-title="VIP MOVIES",HBO Signature
+http://diaztv.xyz:25461/diaztv/sematinya/30
+#EXTINF:-1 tvg-id="2901" tvg-name="HBO Signature SUB" tvg-logo="https://i.ibb.co/F33JjXf/HBOSIGNATURE.png" group-title="VIP MOVIES",HBO Signature SUB
+http://diaztv.xyz:25461/diaztv/sematinya/775
+#EXTINF:-1 tvg-id="1411" tvg-name="HBO SUB" tvg-logo="https://i.ibb.co/3sgvjFr/HBO.png" group-title="VIP MOVIES",HBO SUB
+http://diaztv.xyz:25461/diaztv/sematinya/772
+#EXTINF:-1 tvg-id="1715" tvg-name="HGTV" tvg-logo="https://i.ibb.co/VCX9J0c/HGTV.png" group-title="KNOWLEDGE",HGTV
+http://diaztv.xyz:25461/diaztv/sematinya/120
+#EXTINF:-1 tvg-id="" tvg-name="Hijrah TV" tvg-logo="" group-title="RELIGION",Hijrah TV
+http://diaztv.xyz:25461/diaztv/sematinya/818
+#EXTINF:-1 tvg-id="1555" tvg-name="History" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" group-title="KNOWLEDGE",History
+http://diaztv.xyz:25461/diaztv/sematinya/121
+#EXTINF:-1 tvg-id="1706" tvg-name="Hits" tvg-logo="https://i.ibb.co/Mnq1KcF/HITS.png" group-title="VIP MOVIES",Hits
+http://diaztv.xyz:25461/diaztv/sematinya/31
+#EXTINF:-1 tvg-id="1401" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/FX2Yj15/HITSMOVIES.png" group-title="VIP MOVIES",Hits Movies
+http://diaztv.xyz:25461/diaztv/sematinya/32
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://i.ibb.co/1bmNgCc/horee.png" group-title="KIDS",Horee
+http://diaztv.xyz:25461/diaztv/sematinya/751
+#EXTINF:-1 tvg-id="" tvg-name="Ihsan TV" tvg-logo="" group-title="RELIGION",Ihsan TV
+http://diaztv.xyz:25461/diaztv/sematinya/821
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="https://i.ibb.co/4ft3m1J/IMC.png" group-title="ENTERTAINMENT",IMC
+http://diaztv.xyz:25461/diaztv/sematinya/46
+#EXTINF:-1 tvg-id="" tvg-name="Indikidz" tvg-logo="https://i.ibb.co/SsXkD3W/indikids.png" group-title="KIDS",Indikidz
+http://diaztv.xyz:25461/diaztv/sematinya/749
+#EXTINF:-1 tvg-id="" tvg-name="Indonesiana TV" tvg-logo="https://i.ibb.co/p2ZXZNm/INDONESIANA.png" group-title="KNOWLEDGE",Indonesiana TV
+http://diaztv.xyz:25461/diaztv/sematinya/477
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="LOCAL FTA",Indosiar
+http://diaztv.xyz:25461/diaztv/sematinya/10
+#EXTINF:-1 tvg-id="3004" tvg-name="iNews" tvg-logo="https://i.ibb.co/xGMxrbP/INEWS.png" group-title="NEWS",iNews
+http://diaztv.xyz:25461/diaztv/sematinya/236
+#EXTINF:-1 tvg-id="" tvg-name="Info BMKG" tvg-logo="https://i.ibb.co/196KF4T/INFOBMKG.png" group-title="BREAKING NEWS",Info BMKG
+http://diaztv.xyz:25461/diaztv/sematinya/437
+#EXTINF:-1 tvg-id="" tvg-name="Iqraa TV" tvg-logo="https://i.ibb.co/N3wjGNG/IQRAATV.png" group-title="RELIGION",Iqraa TV
+http://diaztv.xyz:25461/diaztv/sematinya/455
+#EXTINF:-1 tvg-id="" tvg-name="IZZAH TV" tvg-logo="https://i.ibb.co/KcZPLxJ/IZZAHTV.png" group-title="RELIGION",IZZAH TV
+http://diaztv.xyz:25461/diaztv/sematinya/160
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="JakTV" tvg-logo="https://i.ibb.co/JB9rnZz/JAKTV.png" group-title="LOCAL REGION",JakTV
+http://diaztv.xyz:25461/diaztv/sematinya/100
+#EXTINF:-1 tvg-id="" tvg-name="Jowo Channel" tvg-logo="https://i.ibb.co/020vdGV/JOWOCHANNEL.png" group-title="LOCAL REGION",Jowo Channel
+http://diaztv.xyz:25461/diaztv/sematinya/803
+#EXTINF:-1 tvg-id="" tvg-name="JTBC" tvg-logo="https://i.ibb.co/9cVrxF2/jtbc.png" group-title="KOREAN",JTBC
+http://diaztv.xyz:25461/diaztv/sematinya/626
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/WxnFByB/jtv.png" group-title="LOCAL REGION",JTV
+http://diaztv.xyz:25461/diaztv/sematinya/759
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/D7TWVhk/KPLUS.png" group-title="KOREAN",K+
+http://diaztv.xyz:25461/diaztv/sematinya/47
+#EXTINF:-1 tvg-id="" tvg-name="K-Drama" tvg-logo="https://i.ibb.co/ssgP2Tk/lbskdrama.png" group-title="KOREAN",K-Drama
+http://diaztv.xyz:25461/diaztv/sematinya/631
+#EXTINF:-1 tvg-id="1392" tvg-name="KBS World" tvg-logo="https://i.ibb.co/DYpL98T/KBSWORLD.png" group-title="KOREAN",KBS World
+http://diaztv.xyz:25461/diaztv/sematinya/48
+#EXTINF:-1 tvg-id="1705" tvg-name="KiX" tvg-logo="https://i.ibb.co/xs8p2XX/KIX.png" group-title="ENTERTAINMENT",KiX
+http://diaztv.xyz:25461/diaztv/sematinya/49
+#EXTINF:-1 tvg-id="3015" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" group-title="NEWS",Kompas TV
+http://diaztv.xyz:25461/diaztv/sematinya/112
+#EXTINF:-1 tvg-id="1700" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/vPVYnZW/LIFETIME.png" group-title="ENTERTAINMENT",Lifetime
+http://diaztv.xyz:25461/diaztv/sematinya/204
+#EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://i.ibb.co/qskfHtx/lotusmacau.png" group-title="ENTERTAINMENT",Lotus Macau
+http://diaztv.xyz:25461/diaztv/sematinya/632
+#EXTINF:-1 tvg-id="2921" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/9ZzX3Rh/LOVENATURE.png" group-title="KNOWLEDGE",Love Nature
+http://diaztv.xyz:25461/diaztv/sematinya/232
+#EXTINF:-1 tvg-id="2921" tvg-name="Love Nature 4K" tvg-logo="https://i.ibb.co/yVtVfJm/LOVENATURE4-K.png" group-title="KNOWLEDGE",Love Nature 4K
+http://diaztv.xyz:25461/diaztv/sematinya/241
+#EXTINF:-1 tvg-id="" tvg-name="M2O" tvg-logo="https://i.ibb.co/gPLD3N6/M20.png" group-title="MUSIC",M2O
+http://diaztv.xyz:25461/diaztv/sematinya/460
+#EXTINF:-1 tvg-id="3009" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="NEWS",Metro TV
+http://diaztv.xyz:25461/diaztv/sematinya/206
+#EXTINF:-1 tvg-id="3010" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/qCNrFXj/MNCTV.png" group-title="LOCAL FTA",MNCTV
+http://diaztv.xyz:25461/diaztv/sematinya/3
+#EXTINF:-1 tvg-id="" tvg-name="MNET" tvg-logo="https://i.ibb.co/KKzxVFb/mnet.png" group-title="KOREAN",MNET
+http://diaztv.xyz:25461/diaztv/sematinya/627
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision TV" tvg-logo="https://i.ibb.co/rbNcspf/MOTORVISIONTV.png" group-title="SPORTS",Motorvision TV
+http://diaztv.xyz:25461/diaztv/sematinya/215
+#EXTINF:-1 tvg-id="MTATV.MACAN" tvg-name="MTATV" tvg-logo="https://i.ibb.co/vqXCqqV/MTATV.png" group-title="RELIGION",MTATV
+http://diaztv.xyz:25461/diaztv/sematinya/480
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="MUSIC",MTV Live
+http://diaztv.xyz:25461/diaztv/sematinya/466
+#EXTINF:-1 tvg-id="" tvg-name="Musik Indo" tvg-logo="https://i.ibb.co/4gvtYMk/MUSIKINDONESIA.png" group-title="MUSIC",Musik Indo
+http://diaztv.xyz:25461/diaztv/sematinya/483
+#EXTINF:-1 tvg-id="5001" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/0GncFKm/MYCINEMA.png" group-title="ENTERTAINMENT",My Cinema
+http://diaztv.xyz:25461/diaztv/sematinya/50
+#EXTINF:-1 tvg-id="mycinemaasia.MACAN" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/LtTcnY0/MYCINEMAASIA.png" group-title="ENTERTAINMENT",My Cinema Asia
+http://diaztv.xyz:25461/diaztv/sematinya/51
+#EXTINF:-1 tvg-id="myfamilychannel.MACAN" tvg-name="My Family Channel" tvg-logo="https://i.ibb.co/nRT38Hr/MYFAMILYCHANNEL.png" group-title="ENTERTAINMENT",My Family Channel
+http://diaztv.xyz:25461/diaztv/sematinya/52
+#EXTINF:-1 tvg-id="" tvg-name="MyKidz" tvg-logo="https://i.ibb.co/T1BcfnM/MYKIDZ.png" group-title="KIDS",MyKidz
+http://diaztv.xyz:25461/diaztv/sematinya/116
+#EXTINF:-1 tvg-id="MyTV.id" tvg-name="MyTV" tvg-logo="https://i.ibb.co/T4QFQTQ/MYTV.png" group-title="LOCAL REGION",MyTV
+http://diaztv.xyz:25461/diaztv/sematinya/234
+#EXTINF:-1 tvg-id="1551" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/HCkJy2p/NATGEO.png" group-title="KNOWLEDGE",National Geographic
+http://diaztv.xyz:25461/diaztv/sematinya/122
+#EXTINF:-1 tvg-id="1550" tvg-name="National Geographic Wild" tvg-logo="https://i.ibb.co/cYC62XM/NATGEOWILD.png" group-title="KNOWLEDGE",National Geographic Wild
+http://diaztv.xyz:25461/diaztv/sematinya/123
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/dD8t9NX/NBA.png" group-title="VIP SPORTS 1",NBA TV
+http://diaztv.xyz:25461/diaztv/sematinya/81
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="LOCAL FTA",NET.
+http://diaztv.xyz:25461/diaztv/sematinya/11
+#EXTINF:-1 tvg-id="2643" tvg-name="NHK World-Japan" tvg-logo="https://i.ibb.co/8jRfwg3/NHKWORLDJAPAN.png" group-title="NEWS",NHK World-Japan
+http://diaztv.xyz:25461/diaztv/sematinya/216
+#EXTINF:-1 tvg-id="1617" tvg-name="Nick Jr." tvg-logo="https://i.ibb.co/rZ0JdwW/NICKJR.png" group-title="KIDS",Nick Jr.
+http://diaztv.xyz:25461/diaztv/sematinya/97
+#EXTINF:-1 tvg-id="1616" tvg-name="Nicklodeon" tvg-logo="https://i.ibb.co/qxBbpTw/NICKELODEON.png" group-title="KIDS",Nicklodeon
+http://diaztv.xyz:25461/diaztv/sematinya/96
+#EXTINF:-1 tvg-id="" tvg-name="NOAH - Bintang di Surga (2022)" tvg-logo="https://i.ibb.co/dkMYCkV/maxresdefault.jpg" group-title="MUSIC ON DEMAND",NOAH - Bintang di Surga (2022)
+http://diaztv.xyz:25461/diaztv/sematinya/224
+#EXTINF:-1 tvg-id="" tvg-name="NOAH - Menghapus Jejakmu (2022)" tvg-logo="http://multinetvision.xyz/ACR543/Screenshot_20220116_104147.jpg" group-title="MUSIC ON DEMAND",NOAH - Menghapus Jejakmu (2022)
+http://diaztv.xyz:25461/diaztv/sematinya/504
+#EXTINF:-1 tvg-id="" tvg-name="NOAH - Tertinggal Waktu (2021)" tvg-logo="http://multinetvision.xyz/ACR543/Screenshot_20220116_104147.jpg" group-title="MUSIC ON DEMAND",NOAH - Tertinggal Waktu (2021)
+http://diaztv.xyz:25461/diaztv/sematinya/417
+#EXTINF:-1 tvg-id="Nusantara.id" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/h2XrNq4/NUSANTARATV.png" group-title="LOCAL REGION",Nusantara TV
+http://diaztv.xyz:25461/diaztv/sematinya/235
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://i.ibb.co/Hr517NJ/OCHANNEL.png" group-title="LOCAL FTA",O Channel
+http://diaztv.xyz:25461/diaztv/sematinya/18
+#EXTINF:-1 tvg-id="1393" tvg-name="One" tvg-logo="https://i.ibb.co/9vqfqRp/ONE.png" group-title="KOREAN",One
+http://diaztv.xyz:25461/diaztv/sematinya/53
+#EXTINF:-1 tvg-id="" tvg-name="OneGolf HD" tvg-logo="" group-title="SPORTS",OneGolf HD
+http://diaztv.xyz:25461/diaztv/sematinya/837
+#EXTINF:-1 tvg-id="2408" tvg-name="Paramount Network" tvg-logo="https://i.ibb.co/cDZZVTm/PARAMOUNT.png" group-title="VIP MOVIES",Paramount Network
+http://diaztv.xyz:25461/diaztv/sematinya/33
+#EXTINF:-1 tvg-id="1326" tvg-name="Phoenix Info News" tvg-logo="https://i.ibb.co/tZsgtQN/PHOENIXINFONEWS.png" group-title="NEWS",Phoenix Info News
+http://diaztv.xyz:25461/diaztv/sematinya/220
+#EXTINF:-1 tvg-id="" tvg-name="RANS Entertainment" tvg-logo="https://i.ibb.co/RP6DbQG/rans.png" group-title="ENTERTAINMENT",RANS Entertainment
+http://diaztv.xyz:25461/diaztv/sematinya/756
+#EXTINF:-1 tvg-id="" tvg-name="Rasyad TV" tvg-logo="" group-title="RELIGION",Rasyad TV
+http://diaztv.xyz:25461/diaztv/sematinya/819
+#EXTINF:-1 tvg-id="3003" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SKWrTYL/RCTI.png" group-title="LOCAL FTA",RCTI
+http://diaztv.xyz:25461/diaztv/sematinya/2
+#EXTINF:-1 tvg-id="6001" tvg-name="Red Bull TV" tvg-logo="https://i.ibb.co/2ZC5GRZ/REDBULLTV.png" group-title="SPORTS",Red Bull TV
+http://diaztv.xyz:25461/diaztv/sematinya/447
+#EXTINF:-1 tvg-id="2473" tvg-name="Rock Entertainment" tvg-logo="https://i.ibb.co/T8G25FS/ROCKENTERTAINMENT.png" group-title="VIP MOVIES",Rock Entertainment
+http://diaztv.xyz:25461/diaztv/sematinya/34
+#EXTINF:-1 tvg-id="2474" tvg-name="Rock Extreme" tvg-logo="https://i.ibb.co/6HMyNWg/ROCKEXTREME.png" group-title="VIP MOVIES",Rock Extreme
+http://diaztv.xyz:25461/diaztv/sematinya/35
+#EXTINF:-1 tvg-id="RodjaTV.MACAN" tvg-name="Rodja TV" tvg-logo="https://i.ibb.co/MZtJtJr/RODJATV.png" group-title="RELIGION",Rodja TV
+http://diaztv.xyz:25461/diaztv/sematinya/73
+#EXTINF:-1 tvg-id="3008" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" group-title="LOCAL FTA",RTV
+http://diaztv.xyz:25461/diaztv/sematinya/19
+#EXTINF:-1 tvg-id="" tvg-name="Sakti TV" tvg-logo="https://i.ibb.co/1GvRTtZ/SAKTITV.png" group-title="LOCAL REGION",Sakti TV
+http://diaztv.xyz:25461/diaztv/sematinya/453
+#EXTINF:-1 tvg-id="" tvg-name="SBS PLUS" tvg-logo="https://i.ibb.co/rdQHjDT/EYEPLUS.png" group-title="KOREAN",SBS PLUS
+http://diaztv.xyz:25461/diaztv/sematinya/246
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="SCM" tvg-logo="https://i.ibb.co/Dk3gKrq/SCM.png" group-title="VIP MOVIES",SCM
+http://diaztv.xyz:25461/diaztv/sematinya/36
+#EXTINF:-1 tvg-id="3001" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="LOCAL FTA",SCTV
+http://diaztv.xyz:25461/diaztv/sematinya/7
+#EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="ENTERTAINMENT",Sinema Indonesia
+http://diaztv.xyz:25461/diaztv/sematinya/238
+#EXTINF:-1 tvg-id="" tvg-name="Sinema X" tvg-logo="https://i.ibb.co/3YXyTLp/sinemaX.png" group-title="ENTERTAINMENT",Sinema X
+http://diaztv.xyz:25461/diaztv/sematinya/630
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="KNOWLEDGE",Smithsonian Channel
+http://diaztv.xyz:25461/diaztv/sematinya/231
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/dWdDjwn/sonypix.png" group-title="ENTERTAINMENT",Sony Pix
+http://diaztv.xyz:25461/diaztv/sematinya/834
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 1" tvg-logo="https://i.ibb.co/3s0PPnF/SONYTEN2-HD.png" group-title="VIP SPORTS 2",Sony TEN 1
+http://diaztv.xyz:25461/diaztv/sematinya/836
+#EXTINF:-1 tvg-id="" tvg-name="Sony TEN 2" tvg-logo="https://i.ibb.co/X39hYR2/SONYTEN1-HD.png" group-title="VIP SPORTS 2",Sony TEN 2
+http://diaztv.xyz:25461/diaztv/sematinya/835
+#EXTINF:-1 tvg-id="1816" tvg-name="SPOTV" tvg-logo="https://i.ibb.co/FsgFTMW/SPOTV.png" group-title="VIP SPORTS 1",SPOTV
+http://diaztv.xyz:25461/diaztv/sematinya/329
+#EXTINF:-1 tvg-id="1816" tvg-name="SPOTV 2" tvg-logo="https://i.ibb.co/T8HY0rn/SPOTV2.png" group-title="VIP SPORTS 1",SPOTV 2
+http://diaztv.xyz:25461/diaztv/sematinya/330
+#EXTINF:-1 tvg-id="" tvg-name="Stadium" tvg-logo="https://i.ibb.co/kxzYcTv/STADIUM.png" group-title="SPORTS",Stadium
+http://diaztv.xyz:25461/diaztv/sematinya/450
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Football" tvg-logo="https://i.ibb.co/89CSBP8/images-5.png" group-title="VIP SPORTS 2",Super Sports Football
+http://diaztv.xyz:25461/diaztv/sematinya/767
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports LaLiga" tvg-logo="https://i.ibb.co/3S5Sw3W/a297.png" group-title="VIP SPORTS 2",Super Sports LaLiga
+http://diaztv.xyz:25461/diaztv/sematinya/766
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Premiere League" tvg-logo="https://i.ibb.co/0hcfctD/a299.png" group-title="VIP SPORTS 2",Super Sports Premiere League
+http://diaztv.xyz:25461/diaztv/sematinya/765
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports PSL" tvg-logo="https://i.ibb.co/xYB2NWF/ss-psl.png" group-title="VIP SPORTS 2",Super Sports PSL
+http://diaztv.xyz:25461/diaztv/sematinya/768
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Variety 2" tvg-logo="https://i.ibb.co/YfGvkQt/V2.png" group-title="VIP SPORTS 2",Super Sports Variety 2
+http://diaztv.xyz:25461/diaztv/sematinya/828
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Variety 3" tvg-logo="https://i.ibb.co/VCgNjgX/a291.png" group-title="VIP SPORTS 2",Super Sports Variety 3
+http://diaztv.xyz:25461/diaztv/sematinya/769
+#EXTINF:-1 tvg-id="" tvg-name="Super Tennis" tvg-logo="https://i.ibb.co/jvcyBsp/MVTVLIVEVENT.png" group-title="VIP SPORTS 2",Super Tennis
+http://diaztv.xyz:25461/diaztv/sematinya/501
+#EXTINF:-1 tvg-id="" tvg-name="Surau TV" tvg-logo="https://i.ibb.co/c3YBCHr/SURAUTV.png" group-title="RELIGION",Surau TV
+http://diaztv.xyz:25461/diaztv/sematinya/163
+#EXTINF:-1 tvg-id="" tvg-name="TATV Solo" tvg-logo="https://i.ibb.co/w0QQQZq/TATV.png" group-title="LOCAL REGION",TATV Solo
+http://diaztv.xyz:25461/diaztv/sematinya/452
+#EXTINF:-1 tvg-id="Techstorm.MACAN" tvg-name="TechStorm" tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE",TechStorm
+http://diaztv.xyz:25461/diaztv/sematinya/124
+#EXTINF:-1 tvg-id="" tvg-name="Tempo TV" tvg-logo="https://i.ibb.co/fqvcHpR/tempotv.png" group-title="LOCAL REGION",Tempo TV
+http://diaztv.xyz:25461/diaztv/sematinya/758
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://i.ibb.co/VjvW2Jp/TENNISCHANNEL.png" group-title="SPORTS",Tennis Channel
+http://diaztv.xyz:25461/diaztv/sematinya/548
+#EXTINF:-1 tvg-id="" tvg-name="The Asylum" tvg-logo="https://i.ibb.co/jLTKQZP/THEASYLUM.png" group-title="VIP MOVIES",The Asylum
+http://diaztv.xyz:25461/diaztv/sematinya/229
+#EXTINF:-1 tvg-id="3201" tvg-name="Thrill" tvg-logo="https://i.ibb.co/187zct9/THRILL.png" group-title="VIP MOVIES",Thrill
+http://diaztv.xyz:25461/diaztv/sematinya/119
+#EXTINF:-1 tvg-id="1707" tvg-name="TLC" tvg-logo="https://i.ibb.co/q5Drt1t/TLC.png" group-title="ENTERTAINMENT",TLC
+http://diaztv.xyz:25461/diaztv/sematinya/106
+#EXTINF:-1 tvg-id="" tvg-name="TMusik" tvg-logo="https://i.ibb.co/xSKhqVb/TMUSIC.png" group-title="MUSIC",TMusik
+http://diaztv.xyz:25461/diaztv/sematinya/484
+#EXTINF:-1 tvg-id="3011" tvg-name="Trans TV" tvg-logo="https://i.ibb.co/PM7wL90/TRANSTV.png" group-title="LOCAL FTA",Trans TV
+http://diaztv.xyz:25461/diaztv/sematinya/13
+#EXTINF:-1 tvg-id="3012" tvg-name="Trans7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="LOCAL FTA",Trans7
+http://diaztv.xyz:25461/diaztv/sematinya/14
+#EXTINF:-1 tvg-id="5004" tvg-name="TRT World" tvg-logo="https://i.ibb.co/4syK3Hm/TRTWORLD.png" group-title="NEWS",TRT World
+http://diaztv.xyz:25461/diaztv/sematinya/217
+#EXTINF:-1 tvg-id="RTMTV1.my" tvg-name="TV1" tvg-logo="" group-title="ASTRO TV",TV1
+http://diaztv.xyz:25461/diaztv/sematinya/832
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV2" tvg-logo="" group-title="ASTRO TV",TV2
+http://diaztv.xyz:25461/diaztv/sematinya/833
+#EXTINF:-1 tvg-id="5002" tvg-name="TV5MONDE Asie-Pacifique" tvg-logo="https://i.ibb.co/Jp2CX5L/TV5-ASIAMONDE.png" group-title="ENTERTAINMENT",TV5MONDE Asie-Pacifique
+http://diaztv.xyz:25461/diaztv/sematinya/203
+#EXTINF:-1 tvg-id="" tvg-name="TVKU Semarang" tvg-logo="https://i.ibb.co/8DWWpjY/TVKU.png" group-title="LOCAL REGION",TVKU Semarang
+http://diaztv.xyz:25461/diaztv/sematinya/20
+#EXTINF:-1 tvg-id="1395" tvg-name="tVN" tvg-logo="https://i.ibb.co/gyFvXXV/TVN.png" group-title="KOREAN",tVN
+http://diaztv.xyz:25461/diaztv/sematinya/54
+#EXTINF:-1 tvg-id="1416" tvg-name="tVN Movies" tvg-logo="https://i.ibb.co/mTddTnk/TVNMOVIES.png" group-title="KOREAN",tVN Movies
+http://diaztv.xyz:25461/diaztv/sematinya/55
+#EXTINF:-1 tvg-id="3006" tvg-name="tvOne" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="NEWS",tvOne
+http://diaztv.xyz:25461/diaztv/sematinya/111
+#EXTINF:-1 tvg-id="3013" tvg-name="TVRI" tvg-logo="https://i.ibb.co/82KRC75/TVRI.png" group-title="LOCAL FTA",TVRI
+http://diaztv.xyz:25461/diaztv/sematinya/21
+#EXTINF:-1 tvg-id="3013" tvg-name="TVRI Sport HD" tvg-logo="https://i.ibb.co/CzBqbKt/TVRISPORTHD.png" group-title="SPORTS",TVRI Sport HD
+http://diaztv.xyz:25461/diaztv/sematinya/331
+#EXTINF:-1 tvg-id="UChannel.MACAN" tvg-name="U-Channel" tvg-logo="https://i.ibb.co/X3xjFbC/UCHANNEL.png" group-title="RELIGION",U-Channel
+http://diaztv.xyz:25461/diaztv/sematinya/114
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="SPORTS",UFC
+http://diaztv.xyz:25461/diaztv/sematinya/770
+#EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="https://i.ibb.co/4RKkhC8/USEEPRIME.png" group-title="SPORTS",Usee Prime
+http://diaztv.xyz:25461/diaztv/sematinya/78
+#EXTINF:-1 tvg-id="UseeSports.MACAN" tvg-name="Usee Sports" tvg-logo="https://i.ibb.co/tQ8cvLr/USEESPORTS.png" group-title="VIP SPORTS 1",Usee Sports
+http://diaztv.xyz:25461/diaztv/sematinya/79
+#EXTINF:-1 tvg-id="UseeSports2.MACAN" tvg-name="Usee Sports 2" tvg-logo="https://i.ibb.co/wMS7fDf/USEESPORTS2.png" group-title="VIP SPORTS 1",Usee Sports 2
+http://diaztv.xyz:25461/diaztv/sematinya/80
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://i.ibb.co/qy2JNzG/WAKUWAKUJAPAN.png" group-title="ENTERTAINMENT",Waku Waku Japan
+http://diaztv.xyz:25461/diaztv/sematinya/56
+#EXTINF:-1 tvg-id="1712" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/9s1xz7g/WARNERTV.png" group-title="VIP MOVIES",Warner TV
+http://diaztv.xyz:25461/diaztv/sematinya/37
+#EXTINF:-1 tvg-id="" tvg-name="Wesaltv" tvg-logo="https://i.ibb.co/T2k6YnN/WESALTV.png" group-title="RELIGION",Wesaltv
+http://diaztv.xyz:25461/diaztv/sematinya/75
+#EXTINF:-1 tvg-id="5003" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/DMH6ftt/ZEEBIOSKOP.png" group-title="ENTERTAINMENT",ZEE Bioskop
+http://diaztv.xyz:25461/diaztv/sematinya/243
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo" tvg-logo="https://i.ibb.co/xXCpQXy/ZOOMOO.png" group-title="KIDS",Zoo Moo
+http://diaztv.xyz:25461/diaztv/sematinya/103
+#EXTINF:-1 tvg-id="" tvg-name="4 Mantan (2020)" tvg-logo="https://i.ibb.co/xGKd9RR/20003400.jpg" group-title="VOD Local - Horror",4 Mantan (2020)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers Grimm: Time Wars" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xfAcu74DRQXeM9XqFcE5MrSRzYP.jpg" group-title="VOD International - Action",Avengers Grimm: Time Wars
+http://diaztv.xyz:25461/movie/diaztv/sematinya/815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Age of Ultron" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dsZUpJ6ml5dQpI7vBdscveCv4aB.jpg" group-title="VOD International - Action",Avengers: Age of Ultron
+http://diaztv.xyz:25461/movie/diaztv/sematinya/814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/or06FN3Dka5tukK1e9sl16pB3iy.jpg" group-title="VOD International - Action",Avengers: Endgame
+http://diaztv.xyz:25461/movie/diaztv/sematinya/817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg" group-title="VOD International - Action",Avengers: Infinity War
+http://diaztv.xyz:25461/movie/diaztv/sematinya/816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5SkzM3TPpt72FoO46NSjipNXkNG.jpg" group-title="VOD International - Sci-Fi",Don't Look Up (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DreadOut (2019)" tvg-logo="https://i.ibb.co/XzMKGqv/18040700.jpg" group-title="VOD Local - Horror",DreadOut (2019)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DYNASTY WARRIORS " tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/tZ5XIM5wGCRV3InRkE772qsHgqF.jpg" group-title="VOD International - Action",DYNASTY WARRIORS 
+http://diaztv.xyz:25461/movie/diaztv/sematinya/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encanto (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg" group-title="VOD International - Animation",Encanto (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://i.ibb.co/RCyBYML/images-41.jpg" group-title="VOD International - Action",Eternals (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godain Kita Dong" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/4104/824104-v" group-title="VOD Local - Comedy",Godain Kita Dong
+http://diaztv.xyz:25461/movie/diaztv/sematinya/807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania: Transformania (2022)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zt5l4DYV1kLPL5Vqz1kLq3THXD.jpg" group-title="VOD International - Animation",Hotel Transylvania: Transformania (2022)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="House Of Gucci" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk_CY_BKwthG9rVSb_-gJkCRN7vE-vixa4nw&usqp=CAU" group-title="VOD International - Drama",House Of Gucci
+http://diaztv.xyz:25461/movie/diaztv/sematinya/830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperfect: Karier, Cinta & Timbangan (2019)" tvg-logo="https://i.ibb.co/1QsFH28/19039500.jpg" group-title="VOD Local - Romance",Imperfect: Karier, Cinta & Timbangan (2019)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Janin (2020)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mkcKmLEkFmBb6yRyR5hFC2xScpP.jpg" group-title="VOD Local - Horror",Janin (2020)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kapal Goyang Kapten" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kkUZTM5qRRLrGtBefPClbuYsjyR.jpg" group-title="VOD Local - Comedy",Kapal Goyang Kapten
+http://diaztv.xyz:25461/movie/diaztv/sematinya/810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Motherly (2021)" tvg-logo="https://i.ibb.co/c8yNt5F/images-44.jpg" group-title="VOD International - Horror",Motherly (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Vampire" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTIzNTIxODU3NF5BMl5BanBnXkFtZTcwNjUzMjYyMQ@@._V1_.jpg" group-title="VOD International - Horror",Mr.Vampire
+http://diaztv.xyz:25461/movie/diaztv/sematinya/825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Vampire 2" tvg-logo="https://64.media.tumblr.com/4cd7b2306edb6fdea1d1048b488a9494/996f499ce950cacc-b5/s1280x1920/160d1fa41892b9f736d58e5f55af289fea8022e6.jpg" group-title="VOD International - Horror",Mr.Vampire 2
+http://diaztv.xyz:25461/movie/diaztv/sematinya/826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr.Vampire 3" tvg-logo="data:image/jpeg;base64,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" group-title="VOD International - Horror",Mr.Vampire 3
+http://diaztv.xyz:25461/movie/diaztv/sematinya/827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="On the Line (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eBCzHCJ4v1Jt5hwDzEPq8Hj2NKZ.jpg" group-title="VOD International - Action",On the Line (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Penyalin Cahaya (2021)" tvg-logo="https://www.themoviedb.org/t/p/original/m0rK7QEkivsD63Rvt2wgT5WGkUN.jpg" group-title="VOD Local - Drama",Penyalin Cahaya (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PSP: Gaya Mahasiswa" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6ba0i86XWO3kMUUrCL7bij6d0Fn.jpg" group-title="VOD Local - Comedy",PSP: Gaya Mahasiswa
+http://diaztv.xyz:25461/movie/diaztv/sematinya/811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasuk 2 (2020)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePSLlYP1wyTi1lkNn6pdfuLAmDf.jpg" group-title="VOD Local - Horror",Rasuk 2 (2020)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sebelum Iblis Menjemput Ayat 2 (2020)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iL9dCE1IoR5pWsZZwibpdPWeEUJ.jpg" group-title="VOD Local - Horror",Sebelum Iblis Menjemput Ayat 2 (2020)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing 2 (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg" group-title="VOD International - Animation",Sing 2 (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Avengers" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg" group-title="VOD International - Action",The Avengers
+http://diaztv.xyz:25461/movie/diaztv/sematinya/813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Commando (2022)" tvg-logo="https://i.ibb.co/G2w7PdD/large-cover.jpg" group-title="VOD International - Action",The Commando (2022)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="VOD International - Action",The Matrix Resurrections (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Novice (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lbawQgnb3xnaJNfTJp5CRC7uAgs.jpg" group-title="VOD International - Drama",The Novice (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Raid" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGIxODNjM2YtZjA5Mi00MjA5LTk2YjItODE0OWI5NThjNTBmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_.jpg" group-title="VOD Local - Action",The Raid
+http://diaztv.xyz:25461/movie/diaztv/sematinya/808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Raid 2" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jxU8GcVrW82ALwmPdDBdxA5tAan.jpg" group-title="VOD Local - Action",The Raid 2
+http://diaztv.xyz:25461/movie/diaztv/sematinya/809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Stronghold (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r2NnRp4mi4G3e0x9zINQIcnGNd8.jpg" group-title="VOD International - Action",The Stronghold (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Till Death Do Us Part" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lhGYCpd6AgO2m3u8Y1CVxjKcfWS.jpg" group-title="VOD Local - Action",Till Death Do Us Part
+http://diaztv.xyz:25461/movie/diaztv/sematinya/812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Revengers" tvg-logo="https://i.ibb.co/pQT8Cts/images-47.jpg" group-title="VOD International - Animation",Tokyo Revengers
+http://diaztv.xyz:25461/movie/diaztv/sematinya/804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg" group-title="VOD International - Action",Venom: Let There Be Carnage (2021)
+http://diaztv.xyz:25461/movie/diaztv/sematinya/439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI - Depan bisa Belakang bisa FHD Version" tvg-logo="https://i.ibb.co/sqSTRkZ/images-46.jpg" group-title="VOD Local - Comedy",WARKOP DKI - Depan bisa Belakang bisa FHD Version
+http://diaztv.xyz:25461/movie/diaztv/sematinya/779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI - Dongkrak Antik" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzY5YjM1gtYzBmYy00ZjhmLTk0MmUtgzMWNjM2JiZjUxL2ltYWdlXkEyXkFqcGdeQXVyMzM2NzMxNTY@._V1_FMjpg_UX320_.jpg" group-title="VOD Local - Comedy",WARKOP DKI - Dongkrak Antik
+http://diaztv.xyz:25461/movie/diaztv/sematinya/777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI - Sabar dulu dong HD Version" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E0YWY4NjktMzg4OC00MTZjLTk0YmMtMjQ3ZWZkOWRhMTVjXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX771_.jpg" group-title="VOD Local - Comedy",WARKOP DKI - Sabar dulu dong HD Version
+http://diaztv.xyz:25461/movie/diaztv/sematinya/778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI Lupa Aturan Main" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTliODk1ZjQtMzUwMS00OTI4LWI5MWItZDg2NTBmMWFhYTYwXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_.jpg" group-title="VOD Local - Comedy",WARKOP DKI Lupa Aturan Main
+http://diaztv.xyz:25461/movie/diaztv/sematinya/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARKOP DKI Makin Lama Makin Asyik" tvg-logo="https://m.media-amazon.com/images/M/MV5BODcwMTVlN2EtMjdjOS00MTkxLThjNGItZjcwZGZkZjZhZDYwXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_FMjpg_UX1000_.jpg" group-title="VOD Local - Comedy",WARKOP DKI Makin Lama Makin Asyik
+http://diaztv.xyz:25461/movie/diaztv/sematinya/805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trust" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bsJSjE0gJkhwKBwoo0JsuJ0fSAA.jpg" group-title="VOD International - Drama",Trust
+http://diaztv.xyz:25461/movie/diaztv/sematinya/844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="60 Seconds to Di3 " tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/igbtr1SBtxdYRXbFRo4ZmfDOhFa.jpg" group-title="VOD International - Horror",60 Seconds to Di3 
+http://diaztv.xyz:25461/movie/diaztv/sematinya/845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Vault" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kWhXubAiIcHW0xn5GThflqaKZqh.jpg" group-title="VOD International - Action",The Vault
+http://diaztv.xyz:25461/movie/diaztv/sematinya/846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyscraper" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/3NL1FiTEhU4SWOuWk8lkVCbmnYm.jpg" group-title="VOD International - Action",Skyscraper
+http://diaztv.xyz:25461/movie/diaztv/sematinya/847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission Impossible: Fallout" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="VOD International - Action",Mission Impossible: Fallout
+http://diaztv.xyz:25461/movie/diaztv/sematinya/848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Meg" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xqECHNvzbDL5I3iiOVUkVPJMSbc.jpg" group-title="VOD International - Action",The Meg
+http://diaztv.xyz:25461/movie/diaztv/sematinya/849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Welcome To The Jungle" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg" group-title="VOD International - Action",Jumanji: Welcome To The Jungle
+http://diaztv.xyz:25461/movie/diaztv/sematinya/850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="VOD International - Action",Tomb Raider
+http://diaztv.xyz:25461/movie/diaztv/sematinya/851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg" group-title="VOD International - Action",Doctor Strange
+http://diaztv.xyz:25461/movie/diaztv/sematinya/852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Promising Young Woman" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg" group-title="VOD International - Drama",Promising Young Woman
+http://diaztv.xyz:25461/movie/diaztv/sematinya/853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="hell Hath No Fury" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wltdRZfeKDux9yKThlGKwjWhUil.jpg" group-title="VOD International - Action",hell Hath No Fury
+http://diaztv.xyz:25461/movie/diaztv/sematinya/854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SAS Red Notice" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" group-title="VOD International - Action",SAS Red Notice
+http://diaztv.xyz:25461/movie/diaztv/sematinya/855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Prambors FM" tvg-logo="https://i.ibb.co/58xVR6D/PRAMBORS.png" group-title="Radio Indonesia",Prambors FM
+http://diaztv.xyz:25461/diaztv/sematinya/287
+#EXTINF:-1 tvg-id="" tvg-name="I-Radio FM" tvg-logo="https://i.ibb.co/HVk7Fp4/IRADIO.png" group-title="Radio Indonesia",I-Radio FM
+http://diaztv.xyz:25461/diaztv/sematinya/288
+#EXTINF:-1 tvg-id="" tvg-name="Elshinta Radio" tvg-logo="https://i.ibb.co/wN0Kfjk/ELSHINTA.png" group-title="Radio Indonesia",Elshinta Radio
+http://diaztv.xyz:25461/diaztv/sematinya/289
+#EXTINF:-1 tvg-id="" tvg-name="Delta FM" tvg-logo="https://i.ibb.co/8XV7gFZ/DELTAFM.png" group-title="Radio Indonesia",Delta FM
+http://diaztv.xyz:25461/diaztv/sematinya/290
+#EXTINF:-1 tvg-id="" tvg-name="Ardan FM" tvg-logo="https://i.ibb.co/jbp6mt9/ARDAN.png" group-title="Radio Indonesia",Ardan FM
+http://diaztv.xyz:25461/diaztv/sematinya/291
+#EXTINF:-1 tvg-id="" tvg-name="Bahana 101.8 FM" tvg-logo="https://i.ibb.co/D5YJ882/BAHANAFM.png" group-title="Radio Indonesia",Bahana 101.8 FM
+http://diaztv.xyz:25461/diaztv/sematinya/292
+#EXTINF:-1 tvg-id="" tvg-name="Gen 98.7 FM" tvg-logo="https://i.ibb.co/ZNNCJgS/GEN.png" group-title="Radio Indonesia",Gen 98.7 FM
+http://diaztv.xyz:25461/diaztv/sematinya/293
+#EXTINF:-1 tvg-id="" tvg-name="Geronimo FM" tvg-logo="https://i.ibb.co/FwNRNzs/GERONIMOFM.png" group-title="Radio Indonesia",Geronimo FM
+http://diaztv.xyz:25461/diaztv/sematinya/294
+#EXTINF:-1 tvg-id="" tvg-name="Hard Rock FM" tvg-logo="https://i.ibb.co/gMs3KC1/HARDROCK.png" group-title="Radio Indonesia",Hard Rock FM
+http://diaztv.xyz:25461/diaztv/sematinya/295
+#EXTINF:-1 tvg-id="" tvg-name="Jak FM" tvg-logo="https://i.ibb.co/Lh2NDrW/JAKFM.png" group-title="Radio Indonesia",Jak FM
+http://diaztv.xyz:25461/diaztv/sematinya/296
+#EXTINF:-1 tvg-id="" tvg-name="101.1 MGTRADIO" tvg-logo="https://i.ibb.co/7gzsLPz/MGTRADIO.png" group-title="Radio Indonesia",101.1 MGTRADIO
+http://diaztv.xyz:25461/diaztv/sematinya/297
+#EXTINF:-1 tvg-id="" tvg-name="MÚSICA FM" tvg-logo="https://i.ibb.co/RHFLQqC/MUSICA.png" group-title="Radio Indonesia",MÚSICA FM
+http://diaztv.xyz:25461/diaztv/sematinya/298
+#EXTINF:-1 tvg-id="" tvg-name="TV Radio 51" tvg-logo="https://i.ibb.co/TL3kCzR/51-RADIOTV.png" group-title="Radio International",TV Radio 51
+http://diaztv.xyz:25461/diaztv/sematinya/299
+#EXTINF:-1 tvg-id="" tvg-name="RadioU TV" tvg-logo="https://i.ibb.co/2SJ8s9y/RADIOU.png" group-title="Radio International",RadioU TV
+http://diaztv.xyz:25461/diaztv/sematinya/300
+#EXTINF:-1 tvg-id="" tvg-name="95.1 KIS FM Jakarta" tvg-logo="https://i.ibb.co/1f2Y2Wz/KISFM.png" group-title="Radio Indonesia",95.1 KIS FM Jakarta
+http://diaztv.xyz:25461/diaztv/sematinya/301
+#EXTINF:-1 tvg-id="" tvg-name="Hot 93.2 FM" tvg-logo="https://i.ibb.co/MnrJTMW/HOTFM.png" group-title="Radio Indonesia",Hot 93.2 FM
+http://diaztv.xyz:25461/diaztv/sematinya/302
+#EXTINF:-1 tvg-id="" tvg-name="Mustang FM 88 Jakarta" tvg-logo="https://i.ibb.co/B2WwkMg/MUSTANGFM.png" group-title="Radio Indonesia",Mustang FM 88 Jakarta
+http://diaztv.xyz:25461/diaztv/sematinya/303
+#EXTINF:-1 tvg-id="" tvg-name="Brava Radio" tvg-logo="https://i.ibb.co/QDPtHPS/BRAVA.png" group-title="Radio Indonesia",Brava Radio
+http://diaztv.xyz:25461/diaztv/sematinya/304
+#EXTINF:-1 tvg-id="" tvg-name="RRI NET" tvg-logo="https://i.ibb.co/vhTL3zR/RRINET.png" group-title="Radio Indonesia",RRI NET
+http://diaztv.xyz:25461/diaztv/sematinya/352
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E11" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E11
+http://diaztv.xyz:25461/series/diaztv/sematinya/259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E12" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E12
+http://diaztv.xyz:25461/series/diaztv/sematinya/260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E13" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E13
+http://diaztv.xyz:25461/series/diaztv/sematinya/261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E14" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E14
+http://diaztv.xyz:25461/series/diaztv/sematinya/262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E15" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E15
+http://diaztv.xyz:25461/series/diaztv/sematinya/263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E16" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E16
+http://diaztv.xyz:25461/series/diaztv/sematinya/306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E17" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E17
+http://diaztv.xyz:25461/series/diaztv/sematinya/342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E18" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E18
+http://diaztv.xyz:25461/series/diaztv/sematinya/362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Layangan Putus S01 E19" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28LS4D1J0lP9vvJwubc4p8GdScK.jpg" group-title="Series Local",Layangan Putus S01 E19
+http://diaztv.xyz:25461/series/diaztv/sematinya/433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E01" tvg-logo="https://i.ibb.co/km8Y6TW/ep1.jpg" group-title="Series Local",Facetrix S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E02" tvg-logo="https://i.ibb.co/QC9GsLD/ep2.jpg" group-title="Series Local",Facetrix S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E03" tvg-logo="https://i.ibb.co/DC1PrSK/ep3.jpg" group-title="Series Local",Facetrix S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E04" tvg-logo="https://i.ibb.co/c2cY88p/ep4.jpg" group-title="Series Local",Facetrix S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E05" tvg-logo="https://i.ibb.co/x55dPss/ep5.jpg" group-title="Series Local",Facetrix S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E06" tvg-logo="https://i.ibb.co/tL7mrdZ/ep6.jpg" group-title="Series Local",Facetrix S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E07" tvg-logo="https://i.ibb.co/9cMBp11/ep7.jpg" group-title="Series Local",Facetrix S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E08" tvg-logo="https://i.ibb.co/bBV56x8/ep8.jpg" group-title="Series Local",Facetrix S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E09" tvg-logo="https://i.ibb.co/W0zQMxt/ep9.jpg" group-title="Series Local",Facetrix S01 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Facetrix S01 E10" tvg-logo="https://i.ibb.co/74Kc6yb/ep10.jpg" group-title="Series Local",Facetrix S01 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/8YJqx02JNMu9gNX7Ok7qgaNJJgl.jpg" group-title="Series America",Ted Lasso S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/2pNZYWhkY0DdUyVU8FEaYDSSfTW.jpg" group-title="Series America",Ted Lasso S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/tiuQbGLBgXltDTZ95YyL2vCoIKr.jpg" group-title="Series America",Ted Lasso S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/fbWzpmQlFENbnS6GbvHZhzywozo.jpg" group-title="Series America",Ted Lasso S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/p4KDV9hxszklNHdkRm564qWfq9R.jpg" group-title="Series America",Ted Lasso S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/o9g5v73OPWNA0lP4R0QrOgTrH0k.jpg" group-title="Series America",Ted Lasso S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/iHc295TFzpmAMstLQvJe00oiF6G.jpg" group-title="Series America",Ted Lasso S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/bEs22idG5SWG1qObfyMnCGavjMN.jpg" group-title="Series America",Ted Lasso S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/rmNyV9dUPi7VeluqxYq0OFFCKNs.jpg" group-title="Series America",Ted Lasso S01 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted Lasso S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i6AD9UGfac5wyP2wADG5cWS7EIZ.jpg" group-title="Series America",Ted Lasso S01 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E01" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/491.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E02" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/492.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E03" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E04" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E05" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E06" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E07" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E08" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E09" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E10" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E11" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E11
+http://diaztv.xyz:25461/series/diaztv/sematinya/506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E12" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E12
+http://diaztv.xyz:25461/series/diaztv/sematinya/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E13" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E13
+http://diaztv.xyz:25461/series/diaztv/sematinya/508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E14" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E14
+http://diaztv.xyz:25461/series/diaztv/sematinya/509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E15" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E15
+http://diaztv.xyz:25461/series/diaztv/sematinya/510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hometown Cha-Cha-Cha S01 E16" tvg-logo="https://www.themoviedb.org/t/p/original/en6lrlJ1DhyvkeZEqrk3R6EJz1p.jpg" group-title="Series Korea",Hometown Cha-Cha-Cha S01 E16
+http://diaztv.xyz:25461/series/diaztv/sematinya/511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Name S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg" group-title="Series Korea",My Name S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Through the Darkness [ongoing] S01 E01" tvg-logo="https://www.themoviedb.org/t/p/original/rE8zEZtwmg6J6zj5wBLciYtnQzc.jpg" group-title="Series Korea",Through the Darkness [ongoing] S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Through the Darkness [ongoing] S01 E02" tvg-logo="https://www.themoviedb.org/t/p/original/rE8zEZtwmg6J6zj5wBLciYtnQzc.jpg" group-title="Series Korea",Through the Darkness [ongoing] S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/521.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Through the Darkness [ongoing] S01 E03" tvg-logo="https://www.themoviedb.org/t/p/original/rE8zEZtwmg6J6zj5wBLciYtnQzc.jpg" group-title="Series Korea",Through the Darkness [ongoing] S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Through the Darkness [ongoing] S01 E04" tvg-logo="https://www.themoviedb.org/t/p/original/rE8zEZtwmg6J6zj5wBLciYtnQzc.jpg" group-title="Series Korea",Through the Darkness [ongoing] S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E01" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E02" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E03" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E04" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E05" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E06" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E07" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E08" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E09" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E10" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E11" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E11
+http://diaztv.xyz:25461/series/diaztv/sematinya/576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E12" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E12
+http://diaztv.xyz:25461/series/diaztv/sematinya/577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E13" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E13
+http://diaztv.xyz:25461/series/diaztv/sematinya/578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E14" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E14
+http://diaztv.xyz:25461/series/diaztv/sematinya/579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E15" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E15
+http://diaztv.xyz:25461/series/diaztv/sematinya/580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S01 E16" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S01 E16
+http://diaztv.xyz:25461/series/diaztv/sematinya/581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E01" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E02" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E03" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E04" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E05" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E06" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E07" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E08" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E09" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E10" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E11" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E11
+http://diaztv.xyz:25461/series/diaztv/sematinya/595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E12" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E12
+http://diaztv.xyz:25461/series/diaztv/sematinya/596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S02 E13" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S02 E13
+http://diaztv.xyz:25461/series/diaztv/sematinya/597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E01" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E02" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E03" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E04" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E05" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E05
+http://diaztv.xyz:25461/series/diaztv/sematinya/605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E06" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E06
+http://diaztv.xyz:25461/series/diaztv/sematinya/609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E07" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E07
+http://diaztv.xyz:25461/series/diaztv/sematinya/610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E08" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E08
+http://diaztv.xyz:25461/series/diaztv/sematinya/611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E09" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E09
+http://diaztv.xyz:25461/series/diaztv/sematinya/612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E10" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E10
+http://diaztv.xyz:25461/series/diaztv/sematinya/613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E11" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E11
+http://diaztv.xyz:25461/series/diaztv/sematinya/614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E12" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E12
+http://diaztv.xyz:25461/series/diaztv/sematinya/615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manifest S03 E13" tvg-logo="https://www.themoviedb.org/t/p/original/moaCMoZYVifaQnNJGDr3M6rBglB.jpg" group-title="Series America",Manifest S03 E13
+http://diaztv.xyz:25461/series/diaztv/sematinya/616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antares S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rz7YW4SiRSoQ4Mdi0qCfJtQtvOB.jpg" group-title="Series Local",Antares S01 E01
+http://diaztv.xyz:25461/series/diaztv/sematinya/744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antares S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rz7YW4SiRSoQ4Mdi0qCfJtQtvOB.jpg" group-title="Series Local",Antares S01 E02
+http://diaztv.xyz:25461/series/diaztv/sematinya/745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antares S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rz7YW4SiRSoQ4Mdi0qCfJtQtvOB.jpg" group-title="Series Local",Antares S01 E03
+http://diaztv.xyz:25461/series/diaztv/sematinya/746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antares S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rz7YW4SiRSoQ4Mdi0qCfJtQtvOB.jpg" group-title="Series Local",Antares S01 E04
+http://diaztv.xyz:25461/series/diaztv/sematinya/747.mp4
